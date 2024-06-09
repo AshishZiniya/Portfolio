@@ -34,8 +34,8 @@ const projects = [
       { name: "ExpressJs" },
     ],
     image: "/assets/work/thumb1.png",
-    live: "",
-    github: "",
+    live: "https://www.eonicindia.in/",
+    github: "https://github.com/AshishZiniya/EonicIndia",
   },
   {
     num: "02",
@@ -45,8 +45,8 @@ const projects = [
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut magnam eaque libero non, tempore sit autem inventore.",
     stack: [{ name: "NextJs" }, { name: "TailwindCSS" }],
     image: "/assets/work/thumb2.png",
-    live: "",
-    github: "",
+    live: "https://ashish-portfolio-xi.vercel.app/",
+    github: "https://github.com/AshishZiniya/Portfolio",
   },
   {
     num: "03",
@@ -61,8 +61,8 @@ const projects = [
       { name: "JSON" },
     ],
     image: "/assets/work/thumb3.png",
-    live: "",
-    github: "",
+    live: "https://book-store-five-gray.vercel.app/",
+    github: "https://github.com/AshishZiniya/book-store",
   },
 ];
 
