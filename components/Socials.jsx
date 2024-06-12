@@ -13,7 +13,7 @@ export default function Socials({ containerstyles, iconstyles }) {
         <div className={containerstyles}>
             {socials.map((item,index) => {
                 return(
-                    <Link key={index} href={item.path} className={iconstyles}>
+                    <Link key={index} href={item.path} target="_blank" className={iconstyles}>
                         {item.icon}
                     </Link>
                 );
