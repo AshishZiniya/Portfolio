@@ -26,7 +26,14 @@ export default function Home() {
                 size="lg"
                 className="uppercase flex items-center gap-2"
               >
-                <span>Download Resume</span>
+                <span>
+                  <a
+                    href="https://drive.google.com/uc?export=download&id=17WUknvgBOHn7NxIhMpg89HhHcbjKZ28p"
+                    download
+                  >
+                    Download Resume
+                  </a>
+                </span>
                 <FiDownload className="text-xl" />
               </Button>
               <div className="mb-8 xl:mb-0">
