@@ -61,7 +61,7 @@ const projects = [
       { name: "JSON" },
     ],
     image: "/assets/work/thumb3.png",
-    live: "https://book-store-five-gray.vercel.app/",
+    live: "https://book-house-fi.vercel.app/",
     github: "https://github.com/AshishZiniya/book-store",
   },
 ];
