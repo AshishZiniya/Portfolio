@@ -58,11 +58,6 @@ const experience = {
     "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi libero distinctio porro voluptates quam autem cum sint!",
   item: [
     {
-      compony: "Elevate",
-      position: "Android Development Intern",
-      duration: "06/2024 to Present",
-    },
-    {
       compony: "Infolabz It Services Pvt. Ltd.",
       position: "React Js Intern",
       duration: "01/2024 to 04/2024",
